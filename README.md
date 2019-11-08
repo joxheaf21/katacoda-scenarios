@@ -1,1 +1,1 @@
-# katacoda-tests
+# katacoda-scenarios
